@@ -1,5 +1,7 @@
 #angular-floating-label
 
+[![Join the chat at https://gitter.im/aaron-straker/angular-floating-label](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aaron-straker/angular-floating-label?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The best project ever.
 
 ##Installation
